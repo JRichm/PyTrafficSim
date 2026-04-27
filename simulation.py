@@ -1,5 +1,4 @@
 import random
-import pandas as pd
 import pygame as pg
 
 from vec2 import Vector2
